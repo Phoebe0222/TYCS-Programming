@@ -10,6 +10,7 @@ Notes and exercises for programming subject
 - [Lecture notes and programs](https://people.eecs.berkeley.edu/~bh/61a-pages/)
 
 ### Setting up Scheme 
-- download Racket from https://racket-lang.org/download/
+- install [Racket](https://racket-lang.org/download/) `brew install racket`
 - start Racket  `$racket`
 - install Simply Scheme package `(require (planet dyoo/simply-scheme:2:2))`
+- load programs from files `(load "PATH_TO_SCM_FILE")`
